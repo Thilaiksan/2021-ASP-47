@@ -1,0 +1,23 @@
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and cache files
+*.tmp
+*.log
+.Rcheck/
+*_cache/
+
+# Raw downloaded microarray files
+*.CEL
+*.CEL.gz
+# Large generated R data files
+
+results/Final_Analysis_Objects.rds
