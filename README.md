@@ -1,5 +1,5 @@
 # Gene Expression-Based Biomarker Discovery and Machine Learning Analysis of Glioblastoma
-[Open Diabetes Prediction Report](https://github.com/Thilaiksan/2021-ASP-47.git/Glioblastoma_Project_Report.html)
+[View Glioblastoma Bioinformatics Project Report](https://github.com/Thilaiksan/2021-ASP-47/blob/main/Glioblastoma_Project_Report.html)
 
 ## Abstract
 
