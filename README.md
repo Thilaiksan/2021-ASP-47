@@ -1,5 +1,5 @@
 # Gene Expression-Based Biomarker Discovery and Machine Learning Analysis of Glioblastoma
-[View Glioblastoma Bioinformatics Project Report](https://github.com/Thilaiksan/2021-ASP-47/Glioblastoma_Project_Report.html)
+[View Glioblastoma Bioinformatics Project Report](https://github.io/Thilaiksan/2021-ASP-47/Glioblastoma_Project_Report.html)
 
 ## Abstract
 
